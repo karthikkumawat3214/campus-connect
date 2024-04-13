@@ -10,7 +10,7 @@ const AboutUsScreen = () => {
         <Col md={6} className='about-section'>
           <h1 className='section-title'>Who are We?</h1>
           <p className='section-content'>
-            This website has been created for the purpose of aiding students in buying and selling notes and other items they no longer need, which might be useful for other new students. We do not charge for this service. Our goal is to facilitate communication between buyers and sellers. Items can include notes, bikes, drawing instruments, utensils, and furniture, especially from students who are leaving campus soon or in the future.
+            This website has been created for the purpose of to adiding students in buying and selling notes and other items they no longer need, which might be useful for other new students. We do not charge for this service. Our goal is to facilitate communication between buyers and sellers. Items can include notes, bikes, drawing instruments, utensils, and furniture, especially from students who are leaving campus soon or in the future.
           </p>
         </Col>
         <Col md={3}></Col>
